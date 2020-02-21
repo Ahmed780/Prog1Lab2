@@ -6,7 +6,7 @@ public class Cube {
 		
 		Scanner no=new Scanner(System.in);		
 		System.out.print("\nEnter a number: ");
-		num=no.nextInt();
+		num=no.nextDouble();
 
 		System.out.println("\nCube of "+ num + " = "+ Math.pow(num, 3));
 		
