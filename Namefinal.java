@@ -19,7 +19,7 @@ public static void main(String[] args){
 
 	System.out.printf("First name is %s'",first);
 	System.out.printf("\nLast name is %s'",last);
-	System.out.printf("\nFull name is %s %s'",fist,last);
+	System.out.printf("\nFull name is %s %s'",first,last);
  
 
  }
